@@ -1,3 +1,3 @@
 # hacaton
 vs.code
-qulpynaiim
+qulpynaiim ayashkagoiii 
